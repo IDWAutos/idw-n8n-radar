@@ -1,0 +1,8 @@
+{
+  "name": "vehicle-radar",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
